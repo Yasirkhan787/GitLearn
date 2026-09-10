@@ -3,7 +3,7 @@ class Main{
 
     public static void main(String[] args) {
 
-        printName("Yasir Khan");
+        printName("Zain");
 
     }
 
